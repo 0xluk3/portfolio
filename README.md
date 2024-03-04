@@ -7,7 +7,10 @@ Contest results - participating as [ArmedGoose](https://twitter.com/0xArmedGoose
 | Date       | Platform      | Protocol     | Position      | Findings       | 
 |------------|---------------|--------------|---------------|------------------|
 | December 2023 | Code4Arena | [Revolution Protocol](https://code4rena.com/reports/2023-12-revolutionprotocol)| 9 | 1H, 1M | 
+| October 2023 | Sherlock | [Real Wagmi #2](https://github.com/sherlock-audit/2023-10-real-wagmi-judging/issues) | 6 | 1M | 
 | September 2023 | Code4Arena | [Dopex](https://code4rena.com/reports/2023-08-dopex) | N/A | 1M | 
+| September 2023 | Sherlock | [Allo V2 / Gitcoin](https://github.com/sherlock-audit/2023-09-Gitcoin-judging/issues) | N/A | 1M | 
+| August 2023 | Sherlock | [Dinari](https://github.com/sherlock-audit/2023-06-dinari-judging/issues) | 17 | 1M | 
 | January 2023 | Code4Arena | [RabbitHole Quest Protocol](https://code4rena.com/reports/2023-01-rabbithole) | 18 | 1H, 2M |
 
 
