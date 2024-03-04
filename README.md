@@ -6,8 +6,8 @@ Contest results - participating as [ArmedGoose](https://twitter.com/0xArmedGoose
 
 | Date       | Platform      | Protocol     | Position      | Findings       | 
 |------------|---------------|--------------|---------------|------------------|
-| December 2023 | Code4Arena | Protocol Name| Position Name | Severity1, Severity2 | 
-| September 2023 | Code4Arena | Protocol Name| Position Name | Severity1, Severity2 | 
+| December 2023 | Code4Arena | [Revolution Protocol](https://code4rena.com/reports/2023-12-revolutionprotocol)| 9 | 1H, 1M | 
+| September 2023 | Code4Arena | [Dopex](https://code4rena.com/reports/2023-08-dopex) | N/A | 1M | 
 | January 2023 | Code4Arena | [RabbitHole Quest Protocol](https://code4rena.com/reports/2023-01-rabbithole) | 18 | 1H, 2M |
 
 
