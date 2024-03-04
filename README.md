@@ -2,10 +2,18 @@
 A summary of my auditing/pentesting achievements.
 
 ## Web3 
+Contest results - participating as [ArmedGoose](https://twitter.com/0xArmedGoose)
+
+| Date       | Platform      | Protocol     | Position      | Findings       | 
+|------------|---------------|--------------|---------------|------------------|
+| December 2023 | Code4Arena | Protocol Name| Position Name | Severity1, Severity2 | 
+| September 2023 | Code4Arena | Protocol Name| Position Name | Severity1, Severity2 | 
+| January 2023 | Code4Arena | [RabbitHole Quest Protocol](https://code4rena.com/reports/2023-01-rabbithole) | 18 | 1H, 2M |
 
 
 
 ## Web 2
+CVE found in software - mostly web applications
 
 | CVE                                     | Description | Details |
 |-----------------------------------------|-------|---------|
