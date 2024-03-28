@@ -6,7 +6,7 @@ Contest results - participating as [ArmedGoose](https://twitter.com/0xArmedGoose
 
 | Date       | Platform      | Protocol     | Position      | Findings       | 
 |------------|---------------|--------------|---------------|------------------|
-| March 2024 | Code4Arena | [Spectra](https://code4rena.com/audits/2024-02-spectra)| 2 | TBC | 
+| March 2024 | Code4Arena | [Spectra](https://code4rena.com/audits/2024-02-spectra)| 2 | 1M | 
 | December 2023 | Code4Arena | [Revolution Protocol](https://code4rena.com/reports/2023-12-revolutionprotocol)| 9 | 1H, 1M | 
 | October 2023 | Sherlock | [Real Wagmi #2](https://github.com/sherlock-audit/2023-10-real-wagmi-judging/issues) | 6 | 1M | 
 | September 2023 | Code4Arena | [Dopex](https://code4rena.com/reports/2023-08-dopex) | N/A | 1M | 
