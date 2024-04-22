@@ -31,5 +31,4 @@ CVE found in software - mostly web applications
 | CVE-2019-2932 | Oracle PeopleSoft Tree Manager SSRF | [Security advisory](https://www.oracle.com/security-alerts/cpuoct2019.html) |
 | CVE-2020-5907 | F5 TMOS Shell privilege escalation vulnerability | [Security advisory](https://my.f5.com/manage/s/article/K00091341) |
 | CVE-2021-21558<br>CVE-2021-21559 | Dell EMC NetWorker information disclosure & vulnerability in SSL validation logic | [Security advisory](https://www.dell.com/support/kbdoc/en-us/000186638/dsa-2021-104-dell-emc-networker-security-update-for-multiple-vulnerabilities) |
-| CVE-1234-5678 | Something bad could have happened | [Security advisory](#) |
 
