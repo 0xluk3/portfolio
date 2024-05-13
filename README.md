@@ -2,7 +2,7 @@
 A summary of my auditing/pentesting achievements.
 
 ## Web3 
-Contest results - participating as [ArmedGoose](https://twitter.com/0xArmedGoose)
+### Contest results - participating as [ArmedGoose](https://twitter.com/0xArmedGoose)
 
 | Date       | Platform      | Protocol     | Position      | Findings       | 
 |------------|---------------|--------------|---------------|------------------|
@@ -14,6 +14,22 @@ Contest results - participating as [ArmedGoose](https://twitter.com/0xArmedGoose
 | August 2023 | Sherlock | [Dinari](https://github.com/sherlock-audit/2023-06-dinari-judging/issues) | 17 | 1M | 
 | January 2023 | Code4Arena | [RabbitHole Quest Protocol](https://code4rena.com/reports/2023-01-rabbithole) | 18 | 1H, 2M |
 
+### Public audit reports
+
+| Protocol Name         | Date        | Report Link                                                                                           |
+|-----------------------|----------------|-------------------------------------------------------------------------------------------------------|
+| Satay Finance | 2023 | https://github.com/satay-protocol/smart-contract-audit/blob/main/Satay_Finance_Satay_Aptos_Move_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf |
+| Pontem Network | 2023 | https://docs.liquidswap.com/#security-audits |
+
+### Articles written
+
+| Topic       | Date       | Link       |
+|-------------|------------|------------|
+| Deep dive into ERC4626 issues | 2024| [Medium](https://medium.com/coinmonks/another-look-at-the-security-of-erc4626-vaults-9901618d0923) |
+| Proxy vulnerabilities part 2 | 2023| [Medium](https://medium.com/coinmonks/common-proxy-vulnerabilities-in-solidity-part-2-6bb0c83ba62) |
+| Proxy vulnerabilities part 1 | 2023 | [Medium](https://medium.com/coinmonks/common-proxy-vulnerabilities-in-solidity-part-1-6068c149075b) |
+| Ethereum signatures for hackers | 2023 | [Medium](https://medium.com/coinmonks/ethereum-signatures-for-hackers-and-auditors-101-4da766cd6344) |
+| A guide to reentrancy | 2023 | [Medium](https://medium.com/coinmonks/a-guide-to-reentrancy-abusing-the-external-calls-for-fun-and-profit-cae7fe91b5d3) |
 
 
 ## Web 2
