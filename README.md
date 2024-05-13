@@ -18,8 +18,8 @@ A summary of my auditing/pentesting achievements.
 
 | Protocol Name         | Date        | Report Link                                                                                           |
 |-----------------------|----------------|-------------------------------------------------------------------------------------------------------|
-| Satay Finance | 2023 | [Report](https://github.com/satay-protocol/smart-contract-audit/blob/main/Satay_Finance_Satay_Aptos_Move_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
-| Pontem Network - Liquidswap | 2023 | [Report](https://docs.liquidswap.com/#security-audits) |
+| Satay Finance (Aptos Move)| 2023 | [Report](https://github.com/satay-protocol/smart-contract-audit/blob/main/Satay_Finance_Satay_Aptos_Move_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
+| Pontem Network - Liquidswap (Aptos Move) | 2023 | [Report](https://docs.liquidswap.com/#security-audits) |
 
 ### Articles written
 
