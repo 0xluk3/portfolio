@@ -1,7 +1,7 @@
 # Portfolio
 A summary of my auditing/pentesting achievements.
 
-##Who am I
+## Who am I
 I am an offensive cybersecurity professional with more than 8 years in the industry. Since more than 2.5 years present in web3 (blockchain) industry, auditing Smart Contracts and assessing security of other blockchain-related tech. I am specialized in EVM (Solidity), but I also have experience in Rust-based languages (currently focused on Move), but also did audits on CosmWasm, NEAR and Solana. I am also familiar with blockchain-related technologies such as blockchain-specific web2 threats, auditing wallets, metamask snaps and backend infrastructure.
 
 Scored several TOP10 places in contests such as Sherlock and Code4Arena udner the nickname ArmedGoose.
