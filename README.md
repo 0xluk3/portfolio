@@ -26,8 +26,8 @@ Moreover, I am a CTO and Co-founder at [Monethic](https://monethic.io/).
 | Protocol Name         | Date        | Report Link                                                                                           |
 |-----------------------|----------------|-------------------------------------------------------------------------------------------------------|
 | Hello Labs - Bridge (Solana) | 2024 | [Report](https://wp.hacken.io/wp-content/uploads/2024/05/Hacken_Hello_SCA-Hello-Labs-_-Bridge-Rust-_-May2024_P-2024-274_1_20240523-14_44.pdf) |
-| Satay Finance (Aptos Move)| 2023 | [Report](https://github.com/satay-protocol/smart-contract-audit/blob/main/Satay_Finance_Satay_Aptos_Move_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
-| Pontem Network - Liquidswap (Aptos Move) | 2023 | [Report](https://docs.liquidswap.com/#security-audits) |
+| Satay Finance (Aptos Move)| 2022 | [Report](https://github.com/satay-protocol/smart-contract-audit/blob/main/Satay_Finance_Satay_Aptos_Move_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
+| Pontem Network - Liquidswap (Aptos Move) | 2022 | [Report](https://docs.liquidswap.com/#security-audits) |
 
 ### Articles written
 
