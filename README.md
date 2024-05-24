@@ -33,6 +33,8 @@ Moreover, I am a CTO and Co-founder at [Monethic](https://monethic.io/).
 
 | Topic       | Date       | Link       |
 |-------------|------------|------------|
+| MOVE demystified part 2 | 2024| [Medium](https://medium.com/@monethic/move-demystified-part-2-structs-storage-and-cap-abilities-a60bf6b0b399) |
+| MOVE demystified part 1 | 2024| [Medium](https://medium.com/@monethic/aptos-move-demystified-part-1-helloworld-module-873090be5fa4) |
 | Deep dive into ERC4626 issues | 2024| [Medium](https://medium.com/coinmonks/another-look-at-the-security-of-erc4626-vaults-9901618d0923) |
 | Proxy vulnerabilities part 2 | 2023| [Medium](https://medium.com/coinmonks/common-proxy-vulnerabilities-in-solidity-part-2-6bb0c83ba62) |
 | Proxy vulnerabilities part 1 | 2023 | [Medium](https://medium.com/coinmonks/common-proxy-vulnerabilities-in-solidity-part-1-6068c149075b) |
