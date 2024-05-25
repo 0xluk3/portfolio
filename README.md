@@ -3,7 +3,7 @@
 ## Who am I
 I am an offensive cybersecurity professional with more than 8 years in the industry. Since more than 2.5 years present in web3 (blockchain) industry, auditing Smart Contracts and assessing security of other blockchain-related tech. I am specialized in EVM (Solidity), but I also have experience in Rust-based languages (currently focused on Move), but also did audits on CosmWasm, NEAR and Solana. I am also familiar with blockchain-related technologies such as blockchain-specific web2 threats, auditing wallets, metamask snaps and backend infrastructure.
 
-Scored several TOP10 places in contests such as Sherlock and Code4Arena udner the nickname [ArmedGoose](https://code4rena.com/@ArmedGoose).
+Scored several TOP10 places in contests such as Sherlock and Code4Arena under the nickname [ArmedGoose](https://code4rena.com/@ArmedGoose).
 In the past I worked for web3 firms [Halborn](https://www.halborn.com/) and [Binance](https://www.binance.com/), where I performed multiple smart contract audits.
 Currently, auditing smart contracts at [Hacken](https://hacken.io/), [Sayfer](https://sayfer.io/) and actively participating and audit contests, as per the table below.
 Moreover, I am a CTO and Co-founder at [Monethic](https://monethic.io/).
