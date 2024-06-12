@@ -12,7 +12,7 @@ Moreover, I am a CTO and Co-founder at [Monethic](https://monethic.io/).
 ### Contest results - participating as [ArmedGoose](https://twitter.com/0xArmedGoose)
 
 | Date       | Platform      | Protocol     | Position      | Findings       | 
-|------------|---------------|--------------|---------------|------------------|
+|------------|---------------|--------------|---------------|------------------| 
 | March 2024 | Code4Arena | [Spectra](https://code4rena.com/reports/2024-02-spectra)| 2 | 1M | 
 | December 2023 | Code4Arena | [Revolution Protocol](https://code4rena.com/reports/2023-12-revolutionprotocol)| 9 | 1H, 1M | 
 | October 2023 | Sherlock | [Real Wagmi #2](https://github.com/sherlock-audit/2023-10-real-wagmi-judging/issues) | 6 | 1M | 
@@ -29,10 +29,11 @@ Moreover, I am a CTO and Co-founder at [Monethic](https://monethic.io/).
 | Satay Finance (Aptos Move)| 2022 | [Report](https://github.com/satay-protocol/smart-contract-audit/blob/main/Satay_Finance_Satay_Aptos_Move_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
 | Pontem Network - Liquidswap (Aptos Move) | 2022 | [Report](https://docs.liquidswap.com/#security-audits) |
 
-### Articles written
+### Articles written 
 
 | Topic       | Date       | Link       |
 |-------------|------------|------------|
+| MOVE demystified part 3 | 2024| [Medium](https://medium.com/@monethic/move-demistyfied-part-3-vulnerabilities-in-storage-and-access-control-checks-8634cc1d114d) |
 | MOVE demystified part 2 | 2024| [Medium](https://medium.com/@monethic/move-demystified-part-2-structs-storage-and-cap-abilities-a60bf6b0b399) |
 | MOVE demystified part 1 | 2024| [Medium](https://medium.com/@monethic/aptos-move-demystified-part-1-helloworld-module-873090be5fa4) |
 | Deep dive into ERC4626 issues | 2024| [Medium](https://medium.com/coinmonks/another-look-at-the-security-of-erc4626-vaults-9901618d0923) |
