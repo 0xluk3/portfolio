@@ -12,6 +12,7 @@ Currently, auditing smart contracts at [Hacken](https://hacken.io/), [Sayfer](ht
 
 | Date       | Platform      | Protocol     | Position      | Findings       | 
 |------------|---------------|--------------|---------------|------------------| 
+| April 2024 | Code4Arena | [DYAD](https://code4rena.com/reports/2024-04-dyad) | N/A | 2H, 3M | 
 | March 2024 | Code4Arena | [Spectra](https://code4rena.com/reports/2024-02-spectra)| 2 | 1M | 
 | December 2023 | Code4Arena | [Revolution Protocol](https://code4rena.com/reports/2023-12-revolutionprotocol)| 9 | 1H, 1M | 
 | October 2023 | Sherlock | [Real Wagmi #2](https://github.com/sherlock-audit/2023-10-real-wagmi-judging/issues) | 6 | 1M | 
@@ -20,10 +21,12 @@ Currently, auditing smart contracts at [Hacken](https://hacken.io/), [Sayfer](ht
 | August 2023 | Sherlock | [Dinari](https://github.com/sherlock-audit/2023-06-dinari-judging/issues) | 17 | 1M | 
 | January 2023 | Code4Arena | [RabbitHole Quest Protocol](https://code4rena.com/reports/2023-01-rabbithole) | 18 | 1H, 2M |
 
-### Public audit reports
+### Public audit reports (as part of the auditing team) 
 
 | Protocol Name         | Date        | Report Link                                                                                           |
 |-----------------------|----------------|-------------------------------------------------------------------------------------------------------|
+| Hydro Protocol (CosmWasm) | 2024 | [Report](https://github.com/oak-security/audit-reports/blob/main/Hydro/2024-07-30%20Audit%20Report%20-%20Hydro%20v1.0.pdf) |
+| MELD (Solidity) | 2024 | [Report](https://www.auditone.io/audit-report/meld) |
 | Hello Labs - Bridge (Solana) | 2024 | [Report](https://wp.hacken.io/wp-content/uploads/2024/05/Hacken_Hello_SCA-Hello-Labs-_-Bridge-Rust-_-May2024_P-2024-274_1_20240523-14_44.pdf) |
 | Satay Finance (Aptos Move)| 2022 | [Report](https://github.com/satay-protocol/smart-contract-audit/blob/main/Satay_Finance_Satay_Aptos_Move_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
 | Pontem Network - Liquidswap (Aptos Move) | 2022 | [Report](https://docs.liquidswap.com/#security-audits) |
