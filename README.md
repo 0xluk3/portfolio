@@ -21,7 +21,7 @@ Currently, auditing smart contracts at [Hacken](https://hacken.io/), [Sayfer](ht
 | August 2023 | Sherlock | [Dinari](https://github.com/sherlock-audit/2023-06-dinari-judging/issues) | 17 | 1M | 
 | January 2023 | Code4Arena | [RabbitHole Quest Protocol](https://code4rena.com/reports/2023-01-rabbithole) | 18 | 1H, 2M |
 
-### Public audit reports (as part of the auditing team) 
+### Public audit reports (as part of the team) 
 
 | Protocol Name         | Date        | Report Link                                                                                           |
 |-----------------------|----------------|-------------------------------------------------------------------------------------------------------|
