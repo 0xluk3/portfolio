@@ -5,7 +5,7 @@ I am an offensive cybersecurity professional with more than 8 years in the indus
 
 Scored several TOP10 places in contests such as Sherlock and Code4Arena under the nickname [ArmedGoose](https://code4rena.com/@ArmedGoose).
 In the past I worked for web3 firms [Halborn](https://www.halborn.com/) and [Binance](https://www.binance.com/), where I performed multiple smart contract audits.
-Currently, auditing smart contracts at [Hacken](https://hacken.io/), [Sayfer](https://sayfer.io/) and actively participating and audit contests, as per the table below.
+Currently, auditing smart contracts at [Hacken](https://hacken.io/), [Sayfer](https://sayfer.io/), [Oak Security](https://www.oaksecurity.io/) and moreover actively participating and audit contests, as per the table below.
 
 ## Web3 
 ### Contest results - participating as [ArmedGoose](https://twitter.com/0xArmedGoose)
