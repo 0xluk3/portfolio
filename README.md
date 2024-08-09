@@ -8,7 +8,7 @@ In the past I worked for web3 firms [Halborn](https://www.halborn.com/) and [Bin
 Currently, auditing smart contracts at [Hacken](https://hacken.io/), [Sayfer](https://sayfer.io/), [Oak Security](https://www.oaksecurity.io/) and moreover actively participating in audit contests, as per the table below.
 
 ## Web3 
-### Contest results - participating as [ArmedGoose](https://twitter.com/0xArmedGoose)
+### Contest results - participating as [ArmedGoose](https://twitter.com/0xArmedGoose) 
 
 | Date       | Platform      | Protocol     | Position      | Findings       | 
 |------------|---------------|--------------|---------------|------------------| 
@@ -25,6 +25,7 @@ Currently, auditing smart contracts at [Hacken](https://hacken.io/), [Sayfer](ht
 
 | Protocol Name         | Date        | Report Link                                                                                           |
 |-----------------------|----------------|-------------------------------------------------------------------------------------------------------|
+| Cypher Autoload (Solidity) | July 2024 | [Report](https://github.com/oak-security/audit-reports/blob/main/Cypher%20Wallet/2024-08-08%20Audit%20Report%20-%20Cypher%20Autoload%20Simple%20v1.0.pdf) |
 | Hydro Protocol (CosmWasm) | July 2024 | [Report](https://github.com/oak-security/audit-reports/blob/main/Hydro/2024-07-30%20Audit%20Report%20-%20Hydro%20v1.0.pdf) |
 | MELD (Solidity) | June 2024 | [Report](https://www.auditone.io/audit-report/meld) |
 | Hello Labs - Bridge (Solana) | May 2024 | [Report](https://wp.hacken.io/wp-content/uploads/2024/05/Hacken_Hello_SCA-Hello-Labs-_-Bridge-Rust-_-May2024_P-2024-274_1_20240523-14_44.pdf) |
