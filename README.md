@@ -33,8 +33,8 @@ Currently, auditing smart contracts at [Sayfer](https://sayfer.io/), [Oak Securi
 | Hydro Protocol  | CosmWasm  | [Report](https://github.com/oak-security/audit-reports/blob/main/Hydro/2024-07-30%20Audit%20Report%20-%20Hydro%20v1.0.pdf) |
 | MELD            | Solidity  | [Report](https://www.auditone.io/audit-report/meld) |
 | Hello Labs - Bridge| Solana   | [Report](https://wp.hacken.io/wp-content/uploads/2024/05/Hacken_Hello_SCA-Hello-Labs-_-Bridge-Rust-_-May2024_P-2024-274_1_20240523-14_44.pdf) |
-| Satay Finance   | Aptos Move| [Report](https://github.com/satay-protocol/smart-contract-audit/blob/main/Satay_Finance_Satay_Aptos_Move_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
-| Pontem Network - Liquidswap | Aptos Move | [Report](https://docs.liquidswap.com/#security-audits) |
+| Satay Finance   | Move| [Report](https://github.com/satay-protocol/smart-contract-audit/blob/main/Satay_Finance_Satay_Aptos_Move_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
+| Pontem Network - Liquidswap | Move | [Report](https://docs.liquidswap.com/#security-audits) |
 
 ### Articles written 
 
