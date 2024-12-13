@@ -51,7 +51,7 @@ Currently, auditing smart contracts at [Sayfer](https://sayfer.io/), [Oak Securi
 
 
 ## Web 2
-0 day vulnerabilities found which were assigned a CVE numbers - mostly web applications
+0 day vulnerabilities found which were assigned CVE numbers - mostly web applications
 
 | CVE                                     | Description | Details |
 |-----------------------------------------|-------|---------|
