@@ -25,6 +25,7 @@ Currently, auditing smart contracts at [Sayfer](https://sayfer.io/), [Oak Securi
 
 | Protocol Name     | Tech      | Report Link                                                                                           |
 |------------------|-----------|-------------------------------------------------------------------------------------------------------|
+| U2U Mobile Wallet | Mobile App  | [Report](https://hashlock.com/wp-content/uploads/2024/10/U2U-Mobile-Wallet-Penetration-Test-Report-Final-Report.pdf) |
 | Magma Core       | CosmWasm  | [Report](https://github.com/oak-security/audit-reports/blob/main/Magma%20Core/2024-12-04%20Audit%20Report%20-%20Magma%20Core%20v1.0.pdf) |
 | SendIt           | CosmWasm  | [Report](https://github.com/oak-security/audit-reports/blob/main/SendIt/2024-09-25%20Audit%20Report%20-%20SendIt%20Contracts%20v1.0.pdf) |
 | Astroport Updates| CosmWasm  | [Report](https://github.com/oak-security/audit-reports/blob/main/Astroport/2024-08-20%20Audit%20Report%20-%20Astroport%20vxASTRO%20Updates%20v1.0.pdf) |
