@@ -25,6 +25,7 @@ Currently, auditing smart contracts at [Sayfer](https://sayfer.io/), [Oak Securi
 
 | Protocol Name     | Tech      | Report Link                                                                                           |
 |------------------|-----------|-------------------------------------------------------------------------------------------------------|
+| Dexlyn Bridge | Move | [Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DexlynBridge%20-%20report.pdf) |
 | Balanced Network | Move | [Report](https://hashlock.com/wp-content/uploads/2024/08/Balanced-Move-Smart-Contract-Audit-Report-Final-Report.pdf) |
 | U2U Mobile Wallet | Mobile App  | [Report](https://hashlock.com/wp-content/uploads/2024/10/U2U-Mobile-Wallet-Penetration-Test-Report-Final-Report.pdf) |
 | Magma Core       | CosmWasm  | [Report](https://github.com/oak-security/audit-reports/blob/main/Magma%20Core/2024-12-04%20Audit%20Report%20-%20Magma%20Core%20v1.0.pdf) |
