@@ -12,6 +12,7 @@ Currently, auditing smart contracts at [Sayfer](https://sayfer.io/), [Oak Securi
 
 | Date       | Platform      | Protocol     | Position      | Findings       | 
 |------------|---------------|--------------|---------------|------------------| 
+| March 2025 | Code4Arena | [Initia Move](https://code4rena.com/audits/2025-01-initia-move) | 2 | 2H, 3M | 
 | April 2024 | Code4Arena | [DYAD](https://code4rena.com/reports/2024-04-dyad) | N/A | 2H, 3M | 
 | March 2024 | Code4Arena | [Spectra](https://code4rena.com/reports/2024-02-spectra)| 2 | 1M | 
 | December 2023 | Code4Arena | [Revolution Protocol](https://code4rena.com/reports/2023-12-revolutionprotocol)| 9 | 1H, 1M | 
@@ -25,8 +26,9 @@ Currently, auditing smart contracts at [Sayfer](https://sayfer.io/), [Oak Securi
 
 | Protocol Name     | Tech      | Report Link                                                                                           |
 |------------------|-----------|-------------------------------------------------------------------------------------------------------|
-| Dexlyn Bridge | Move | [Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DexlynBridge%20-%20report.pdf) |
-| Balanced Network | Move | [Report](https://hashlock.com/wp-content/uploads/2024/08/Balanced-Move-Smart-Contract-Audit-Report-Final-Report.pdf) |
+| Tand3m Launchpad | TON (Tact) | [Report](https://hashlock.com/wp-content/uploads/2025/02/Tand3m-Smart-Contract-Audit-Report-Final-Report.pdf) |
+| Dexlyn Bridge | Move (Aptos) | [Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DexlynBridge%20-%20report.pdf) |
+| Balanced Network | Move (Sui) | [Report](https://hashlock.com/wp-content/uploads/2024/08/Balanced-Move-Smart-Contract-Audit-Report-Final-Report.pdf) |
 | U2U Mobile Wallet | Mobile App  | [Report](https://hashlock.com/wp-content/uploads/2024/10/U2U-Mobile-Wallet-Penetration-Test-Report-Final-Report.pdf) |
 | Magma Core       | CosmWasm  | [Report](https://github.com/oak-security/audit-reports/blob/main/Magma%20Core/2024-12-04%20Audit%20Report%20-%20Magma%20Core%20v1.0.pdf) |
 | SendIt           | CosmWasm  | [Report](https://github.com/oak-security/audit-reports/blob/main/SendIt/2024-09-25%20Audit%20Report%20-%20SendIt%20Contracts%20v1.0.pdf) |
@@ -36,7 +38,7 @@ Currently, auditing smart contracts at [Sayfer](https://sayfer.io/), [Oak Securi
 | Hydro Protocol  | CosmWasm  | [Report](https://github.com/oak-security/audit-reports/blob/main/Hydro/2024-07-30%20Audit%20Report%20-%20Hydro%20v1.0.pdf) |
 | MELD            | Solidity  | [Report](https://www.auditone.io/audit-report/meld) |
 | Hello Labs - Bridge| Solana   | [Report](https://wp.hacken.io/wp-content/uploads/2024/05/Hacken_Hello_SCA-Hello-Labs-_-Bridge-Rust-_-May2024_P-2024-274_1_20240523-14_44.pdf) |
-| Satay Finance   | Move| [Report](https://github.com/satay-protocol/smart-contract-audit/blob/main/Satay_Finance_Satay_Aptos_Move_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
+| Satay Finance   | Move (Aptos)| [Report](https://github.com/satay-protocol/smart-contract-audit/blob/main/Satay_Finance_Satay_Aptos_Move_Smart_Contract_Security_Audit_Report_Halborn_Final.pdf) |
 | Pontem Network - Liquidswap | Move | [Report](https://docs.liquidswap.com/#security-audits) |
 
 ### Articles written 
