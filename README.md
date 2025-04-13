@@ -1,14 +1,19 @@
 # Portfolio
 
 ## Who am I
-I am an offensive cybersecurity professional with more than 8 years in the industry. Since more than 2.5 years present in web3 (blockchain) industry, auditing Smart Contracts and assessing security of other blockchain-related tech. I am specialized in EVM (Solidity), additionally I have experience with Rust-based languages  such as CosmWasm, Move, NEAR and Solana. I am also familiar with blockchain-related technologies such as blockchain-specific web2 threats, auditing wallets, metamask snaps and backend infrastructure, discord and telegram bots and any other hybrid web2/3 solutions.
+I am an offensive cybersecurity professional with 10 years in the industry. Since more than 3 years present in web3, auditing Smart Contracts and assessing security of other blockchain-related tech. Started by working for web3 firms [Halborn](https://www.halborn.com/) and [Binance](https://www.binance.com/).
 
-Scored several TOP10 places in contests such as Sherlock and Code4Arena under the nickname [ArmedGoose](https://code4rena.com/@ArmedGoose).
-In the past I worked for web3 firms [Halborn](https://www.halborn.com/) and [Binance](https://www.binance.com/), where I performed multiple smart contract audits.
-Currently, auditing smart contracts at [Sayfer](https://sayfer.io/), [Oak Security](https://www.oaksecurity.io/), [Hashlock](https://hashlock.com/).
+I do specialize in EVM (Solidity), Move (Sui/Aptos) and Rust-based languages such as CosmWasm and Solana. 
+
+I am also proficient with blockchain-related technologies such as blockchain-specific web2 threats, auditing wallets, metamask snaps and backend infrastructure, discord and telegram bots, bridge offchain components and any other hybrid web2/3 solutions.
+
+Currently working as an independent auditor working with firms such as, but not limited to: [Oak Security](https://www.oaksecurity.io/), [Spearbit (ASR)](https://spearbit.com/) and [Zenith](https://www.zenith.security/). 
+
+Scored several TOP10 places in contests such as Sherlock, Code4rena and Cantina. My Cantina profile is available [here](https://cantina.xyz/u/0xluk3).
 
 ## Web3 
-### Contest results - participating as [ArmedGoose](https://twitter.com/0xArmedGoose) 
+### Contest results 
+*Note: In some of them participating as [ArmedGoose](https://twitter.com/0xArmedGoose)*
 
 | Date       | Platform      | Protocol     | Position      | Findings       | 
 |------------|---------------|--------------|---------------|------------------| 
