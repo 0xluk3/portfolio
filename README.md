@@ -7,9 +7,11 @@ I do specialize in EVM (Solidity), Move (Sui/Aptos) and Rust-based languages suc
 
 I am also proficient with blockchain-related technologies such as blockchain-specific web2 threats, auditing wallets, metamask snaps and backend infrastructure, discord and telegram bots, bridge offchain components and any other hybrid web2/3 solutions.
 
-Currently working as an independent auditor working with firms such as, but not limited to: [Oak Security](https://www.oaksecurity.io/), [Spearbit (ASR)](https://spearbit.com/) and [Zenith](https://www.zenith.security/). 
+Currently I am an independent auditor working with firms such as, but not limited to: [Oak Security](https://www.oaksecurity.io/), [Spearbit (ASR)](https://spearbit.com/) and [Zenith](https://www.zenith.security/). 
 
 Scored several TOP10 places in contests such as Sherlock, Code4rena and Cantina. My Cantina profile is available [here](https://cantina.xyz/u/0xluk3).
+
+Moreover I am Co-Founder of [Monethic](https://monethic.io).
 
 ## Web3 
 ### Contest results 
