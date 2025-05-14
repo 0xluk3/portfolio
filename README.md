@@ -33,7 +33,7 @@ Moreover I am Co-Founder of [Monethic](https://monethic.io).
 
 | Protocol Name     | Tech      | Report Link                                                                                           |
 |------------------|-----------|-------------------------------------------------------------------------------------------------------|
-| Crash Game | Web2/Node Component | [Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/CrashGame_Audit.pdf) |
+| Crash Game | Web2/Pentest | [Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/CrashGame_Audit.pdf) |
 | Drop Initia LP | Move (Aptos) | [Report](https://github.com/oak-security/audit-reports/blob/main/Drop/2025-04-17%20Audit%20Report%20-%20Drop%20Initia%20Liquidity%20Provider%20v1.0.pdf) |
 | IOTA | Move (Sui) | [Report not yet public](https://audits.sherlock.xyz/watson/armedgoose) |
 | Tand3m Launchpad | TON (Tact) | [Report](https://hashlock.com/wp-content/uploads/2025/02/Tand3m-Smart-Contract-Audit-Report-Final-Report.pdf) |
