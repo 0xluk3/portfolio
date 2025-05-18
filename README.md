@@ -1,16 +1,12 @@
 # Portfolio
 
 ## Who am I
-I am an offensive cybersecurity professional with 10 years in the industry. Since more than 3 years present in web3, auditing Smart Contracts and assessing security of other blockchain-related tech. Started by working for web3 firms [Halborn](https://www.halborn.com/) and [Binance](https://www.binance.com/).
-
+I am an offensive cybersecurity professional with 10 years in the industry. Since more than 3 years present in web3, auditing Smart Contracts and assessing security of other blockchain-related tech.
 I do specialize in EVM (Solidity), Move (Sui/Aptos) and Rust-based languages such as CosmWasm and Solana. 
-
-I am also proficient with blockchain-related technologies such as blockchain-specific web2 threats, auditing wallets, metamask snaps and backend infrastructure, discord and telegram bots, bridge offchain components and any other hybrid web2/3 solutions.
-
+I am proficient with blockchain-related technologies such as blockchain-specific web2 threats, auditing wallets, metamask snaps and backend infrastructure, discord and telegram bots, bridge offchain components and any other hybrid web2/3 solutions.
 Currently I am an independent auditor working with firms such as, but not limited to: [Oak Security](https://www.oaksecurity.io/), [Spearbit (ASR)](https://spearbit.com/) and [Zenith](https://www.zenith.security/). 
 
 Scored several TOP10 places in contests such as Sherlock, Code4rena and Cantina. My Cantina profile is available [here](https://cantina.xyz/u/0xluk3).
-
 Moreover I am Co-Founder of [Monethic](https://monethic.io).
 
 ## Web3 
