@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Who am I
-I am an offensive cybersecurity professional with 10 years in the industry. Since more than 3 years present in web3, auditing Smart Contracts and assessing security of other blockchain-related tech.
+I am an offensive cybersecurity professional with 10 years in the industry with a solid pentesting/red teaming background. Since more than 3 years present in web3, auditing Smart Contracts and assessing security of other blockchain-related tech.
 I do specialize in EVM (Solidity), Move (Sui/Aptos) and Rust-based languages such as CosmWasm and Solana. 
 I am proficient with blockchain-related technologies such as blockchain-specific web2 threats, auditing wallets, metamask snaps and backend infrastructure, discord and telegram bots, bridge offchain components and any other hybrid web2/3 solutions.
 Currently I am an independent auditor working with firms such as, but not limited to: [Oak Security](https://www.oaksecurity.io/), [Spearbit (ASR)](https://spearbit.com/) and [Zenith](https://www.zenith.security/). 
