@@ -25,23 +25,24 @@ Moreover I am Co-Founder of [Monethic](https://monethic.io).
 | August 2023 | Sherlock | [Dinari](https://github.com/sherlock-audit/2023-06-dinari-judging/issues) | 17 | 1M | 
 | January 2023 | Code4Arena | [RabbitHole Quest Protocol](https://code4rena.com/reports/2023-01-rabbithole) | 18 | 1H, 2M |
 
-### Public audit reports (as part of a team) 
+### Audit repoirts (both solo and team engagements)
 
 | Protocol Name     | Tech      | Report Link                                                                                           |
 |------------------|-----------|-------------------------------------------------------------------------------------------------------|
-| Crash Game | Web2/Pentest | [Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/CrashGame_Audit.pdf) |
+| Crash Game | Web2 | [Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/CrashGame_Audit.pdf) |
 | Drop Initia LP | Move (Aptos) | [Report](https://github.com/oak-security/audit-reports/blob/main/Drop/2025-04-17%20Audit%20Report%20-%20Drop%20Initia%20Liquidity%20Provider%20v1.0.pdf) |
 | IOTA | Move (Sui) | [Report not yet public](https://audits.sherlock.xyz/watson/armedgoose) |
 | Tand3m Launchpad | TON (Tact) | [Report](https://hashlock.com/wp-content/uploads/2025/02/Tand3m-Smart-Contract-Audit-Report-Final-Report.pdf) |
 | Cabal - backend services | Web2 | [Report not yet public](https://github.com/zenith-security/reports/tree/main) |
 | Cabal - liquid staking token | Move (Aptos) | [Report not yet public](https://github.com/zenith-security/reports/tree/main) |
-| Archie | Web2/Solana | [Report not yet public](https://hashlock.com/audits/archie) |
+| Archie | Solana, Web2 | [Report not yet public](https://hashlock.com/audits/archie) |
 | Dexlyn Bridge | Move (Aptos) | [Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DexlynBridge%20-%20report.pdf) |
 | Balanced Network | Move (Sui) | [Report](https://hashlock.com/wp-content/uploads/2024/08/Balanced-Move-Smart-Contract-Audit-Report-Final-Report.pdf) |
 | U2U Mobile Wallet | Mobile App  | [Report](https://hashlock.com/wp-content/uploads/2024/10/U2U-Mobile-Wallet-Penetration-Test-Report-Final-Report.pdf) |
 | Magma Core       | CosmWasm  | [Report](https://github.com/oak-security/audit-reports/blob/main/Magma%20Core/2024-12-04%20Audit%20Report%20-%20Magma%20Core%20v1.0.pdf) |
-| AgriDex          | Solana / Web2 | [Report](https://hashlock.com/wp-content/uploads/2024/11/AgriDex-Penetration-Test-Report-Final-Report.pdf) |
+| AgriDex          | Solana, Web2 | [Report](https://hashlock.com/wp-content/uploads/2024/11/AgriDex-Penetration-Test-Report-Final-Report.pdf) |
 | SendIt           | CosmWasm  | [Report](https://github.com/oak-security/audit-reports/blob/main/SendIt/2024-09-25%20Audit%20Report%20-%20SendIt%20Contracts%20v1.0.pdf) |
+| Glue Vesting           | Substrate  | [Report not yet public](https://hashlock.com/audits/glue) |
 | Astroport Updates| CosmWasm  | [Report](https://github.com/oak-security/audit-reports/blob/main/Astroport/2024-08-20%20Audit%20Report%20-%20Astroport%20vxASTRO%20Updates%20v1.0.pdf) |
 | Dark Mythos      | Solidity  | [Report](https://www.auditone.io/audit-report/dark-mythos-audit) |
 | Xtreamly Metamask Snap | Web2  | [Report](https://sayfer.io/audits/metamask-snap-audit-report-for-xtreamly/) |
