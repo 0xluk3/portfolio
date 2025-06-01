@@ -15,6 +15,7 @@ Moreover I am Co-Founder of [Monethic](https://monethic.io).
 
 | Date       | Platform      | Protocol     | Position      | Findings       | 
 |------------|---------------|--------------|---------------|------------------| 
+| March 2025 | Cantina | Undisclosed Web2 contest | 1 | 2H | 
 | March 2025 | Code4Arena | [Initia Move](https://code4rena.com/audits/2025-01-initia-move) | 2 | 2H, 3M | 
 | April 2024 | Code4Arena | [DYAD](https://code4rena.com/reports/2024-04-dyad) | N/A | 2H, 3M | 
 | March 2024 | Code4Arena | [Spectra](https://code4rena.com/reports/2024-02-spectra)| 2 | 1M | 
