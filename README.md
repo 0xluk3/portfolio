@@ -35,6 +35,7 @@ Moreover I am Co-Founder of [Monethic](https://monethic.io).
 | Tand3m Launchpad | TON (Tact) | [Report](https://hashlock.com/wp-content/uploads/2025/02/Tand3m-Smart-Contract-Audit-Report-Final-Report.pdf) |
 | Cabal - backend services | Web2 | [Report not yet public](https://github.com/zenith-security/reports/tree/main) |
 | Cabal - liquid staking token | Move (Aptos) | [Report not yet public](https://github.com/zenith-security/reports/tree/main) |
+| Archie | Web2/Solana | [Report not yet public](https://hashlock.com/audits/archie) |
 | Dexlyn Bridge | Move (Aptos) | [Report](https://github.com/CDSecurity/audits/blob/main/audit%20reports/DexlynBridge%20-%20report.pdf) |
 | Balanced Network | Move (Sui) | [Report](https://hashlock.com/wp-content/uploads/2024/08/Balanced-Move-Smart-Contract-Audit-Report-Final-Report.pdf) |
 | U2U Mobile Wallet | Mobile App  | [Report](https://hashlock.com/wp-content/uploads/2024/10/U2U-Mobile-Wallet-Penetration-Test-Report-Final-Report.pdf) |
