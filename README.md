@@ -156,14 +156,14 @@ Organized by domain. Many additional engagements are under NDA and not listed.
 
 ## Competitive Audits
 
-| Contest | Platform | Rank | Findings | Payout |
-|---------|----------|------|----------|--------|
-| Initia Move | Code4rena | **#2** | 2H, 3M | $12,251 |
-| ThreeS / Chromia | Cantina | **#6** | 1H, 2M, 2L | $665 |
-| Spectra | Code4rena | **#2** | 1M | $6,794 |
-| Revolution Protocol | Code4rena | **#9** | 1H, 1M | $881 |
-| Real Wagmi #2 | Sherlock | **#6** | 1H, 1M | $781 |
-| RabbitHole Quest | Code4rena | **#9** | 1H, 2M | $915 |
+| Contest | Platform | Rank | Findings |
+|---------|----------|------|----------|
+| Initia Move | Code4rena | **#2** | 2H, 3M |
+| ThreeS / Chromia | Cantina | **#6** | 1H, 2M, 2L |
+| Spectra | Code4rena | **#2** | 1M |
+| Revolution Protocol | Code4rena | **#9** | 1H, 1M |
+| Real Wagmi #2 | Sherlock | **#6** | 1H, 1M |
+| RabbitHole Quest | Code4rena | **#9** | 1H, 2M |
 
 **5 top-10 finishes | 2x second place**
 
