@@ -18,7 +18,7 @@ Security Researcher @ [Spearbit](https://spearbit.com) (ASR). Senior Blockchain 
 
 | | |
 |---|---|
-| Twitter/X | [@0xluk3](https://twitter.com/0xluk3) |
+| Twitter/X | [0xluk3](https://twitter.com/0xluk3) |
 | Cantina | [0xluk3](https://cantina.xyz/u/0xluk3) |
 | Blog | [luk3.tech](https://luk3.tech) |
 | Sherlock | [ArmedGoose](https://audits.sherlock.xyz/watson/ArmedGoose) |
