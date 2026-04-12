@@ -14,7 +14,7 @@
 
 ---
 
-Security Researcher @ [Spearbit](https://spearbit.com) (ASR). Senior Blockchain Security Auditor @ [Oak Security](https://oaksecurity.io). CTO & Co-Founder @ [Monethic](https://monethic.io). Builder of [MAIA](https://github.com/Monethic/monethic-maia) - AI-powered smart contract auditing engine (192 detectors across EVM & Move).
+Security Researcher @ [Spearbit](https://spearbit.com) (ASR). Senior Blockchain Security Auditor @ [Oak Security](https://oaksecurity.io). CTO & Co-Founder @ [Monethic](https://monethic.io). Builder of [MAIA](https://github.com/Monethic/monethic-maia) - AI-powered smart contract auditing engine (192 detectors across EVM & Move). Technical blog at [luk3.tech](https://luk3.tech).
 
 | | |
 |---|---|
