@@ -37,7 +37,7 @@ You can book me for an audit on [Cantina](https://cantina.xyz/u/0xluk3) or reach
 | **2x 2nd place** | Code4rena competitions |
 | **13 CVEs** | in IBM, Oracle, F5, Dell, Red Hat |
 
-Worked with **Spearbit/Cantina, Oak Security, Pashov Audit Group, Hashlock, Sayfer, Zenith Security**.
+Worked with **Spearbit/Cantina, Oak Security, Sherlock, Pashov Audit Group, Cyfrin**.
 
 ---
 
